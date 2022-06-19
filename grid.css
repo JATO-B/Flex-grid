@@ -9,6 +9,10 @@ body{
     height: 100vh;
 
 }
+header {
+  text-align: center;
+  padding: 20px;
+}
 main {
     display: grid;
     grid-template-areas:
